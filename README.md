@@ -7,7 +7,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://gifer.com/embed/4LQU" width="100"/>
+  <img src="https://i.gifer.com/4LQU.gif" width="100"/>
 </div>
 <!---
 mariusz1802/mariusz1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
