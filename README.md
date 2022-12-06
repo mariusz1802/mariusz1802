@@ -3,7 +3,7 @@
 
 <div style="display: flex; ">
 <img src="https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png" style="width: 100px; float: left;"/>
-<h3>Technical skills <h3>
+<h2>Technical skills <h2>
 </div>
 
 
