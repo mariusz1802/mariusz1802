@@ -3,7 +3,8 @@
 
 
 
-## technical skills <img  float="left" src="https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png" width="100px" /> 
+ <img  float="left" src="https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png" width="100px" /> 
+ <h1 float="left"> Technical SKILLS </h2>
 																	   
 ## Technical skills 
 
