@@ -6,9 +6,9 @@
 
 ![suitcase](https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png)
 
-<img src="https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png" style="width: 200px;"/>
+<img src="https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png" style="width: 120px;"/>
 
-
+# Technical skills
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
