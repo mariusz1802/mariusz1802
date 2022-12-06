@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 
 
+![Purple-ilustrated](https://user-images.githubusercontent.com/41803168/205893523-086e4ccf-9f60-471d-a527-1523ee4af932.png)
 
 
-https://user-images.githubusercontent.com/41803168/205893371-2bb1d303-974d-4322-bc39-86825ded74b3.mp4
 
 
 
