@@ -2,10 +2,10 @@
 ![Blue Geometric Technology MJ](https://user-images.githubusercontent.com/41803168/205963073-106ad797-d19c-4ee1-92d8-603ccbf4093f.png)
 
 
-
+<div display="flex">
  <img  float="left" src="https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png" width="100px" /> 
  <h1 float="left"> Technical SKILLS </h2>
-																	   
+</div>																	   
 ## Technical skills 
 
 
