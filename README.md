@@ -1,6 +1,7 @@
 
+![Blue Geometric Technology MJ](https://user-images.githubusercontent.com/41803168/205963073-106ad797-d19c-4ee1-92d8-603ccbf4093f.png)
 
-![Black and Purple Modern Introduce](https://user-images.githubusercontent.com/41803168/205961908-cef79357-0db9-4365-b224-f14f88022ef8.jpg)
+
 
 - 👋 Hi, I’m @mariusz1802
 - 👀 I’m interested in ...
