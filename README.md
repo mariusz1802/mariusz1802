@@ -4,7 +4,7 @@
 ![Blue Geometric Technology MJ](https://user-images.githubusercontent.com/41803168/205963073-106ad797-d19c-4ee1-92d8-603ccbf4093f.png)
 
 
-**My name is Mariusz and I was born to become good programmers.**
+**My name is Mariusz and I was born to become good programmer.**
 Although it wasn't immediately obvious to me, the path I walked
 to realize this strengthened my character and perseverance in pursuit of goals.
 For as long as I can remember, I liked to deal with graphics and computers.
@@ -55,6 +55,8 @@ That's why I love doing it.
 <!-*************************************- GIT-->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
+<br/>
+<br/>
 
 
 <!--******************////// STATS SECTION //////*************************-->	
