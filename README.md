@@ -68,10 +68,7 @@ That's why I love doing it.
 	
 
 	
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)	
-	
-	
-![Snake animation](substitute my username to yours in the link here)
+![Snake animation](https://github.com/mariusz1802/mariusz1802/blob/output/github-contribution-grid-snake.svg)
 
 
 
