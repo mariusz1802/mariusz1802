@@ -68,7 +68,6 @@ That's why I love doing it.
 	
 
 	
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)	
 
 
@@ -104,7 +103,7 @@ That's why I love doing it.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 	
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 - 👋 Hi, I’m @mariusz1802
 - 👀 I’m interested in ...
