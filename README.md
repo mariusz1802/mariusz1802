@@ -4,7 +4,22 @@
 ![Blue Geometric Technology MJ](https://user-images.githubusercontent.com/41803168/205963073-106ad797-d19c-4ee1-92d8-603ccbf4093f.png)
 
 <h1 align="left">👋I'm Mariusz</h1>
-<h3 align="left">A passionate frontend developer from Poland</h3>
+<h3 align="left">I wast born to be a good programmer</h3>
+
+Choć nie od razu było to dla mnie takie oczywiste,droga, którą przeszedłem,
+aby sobie to uświadomić wzmocniła mój charakter i wytrwałość w dążeniu do celów.
+Odkąd pamiętam lubiłem zajmować się grafiką i komputerami. 
+Skłoniło mnie to do studiowania IT o specjalności grafika komputerowa.
+Naprawdę cieszyło mnie tworzenie grafiki komputerowej. Po studiach pracowałem 
+jako grafik komputerowy i tam rozwijałem dalej swoje umiejętnośći.
+Po pewnym czasie czułem, że w grafice potrafie stworzyć wszystko co tylko będe chciał.
+To był moment w której nie widziałem dalszej możliwośći rozwoju.
+Czułem, że robie to już tylko dla pieniędzy. Postanowiłem zrezygnować i poszukać przestrzeni
+i potencjału w różnych dziedzinach życia.
+Tak udało mi się odnaleźć nową pasję jakie daje programowanie front-endu.
+Jest to dla mnie przestrzeń, która nie ma końca w odkrywaniu i zdobywaniu umiejętnośći.
+Dlatego właśnie uwielbiam to robić.
+
 
 <!--******************////// TECHNICAL SKILLS SECTION //////*************************-->
 <h1> <img src="https://user-images.githubusercontent.com/41803168/205970539-a2e7ad66-00a7-4e2d-9625-ff315925cfc7.png" width="55px" /> Technical skills </h1>
