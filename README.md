@@ -66,13 +66,18 @@ That's why I love doing it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusz1802&layout=compact&theme=radical)](https://github.com/mariusz1802)
 	
-![Snake animation](https://github.com/mariusz1802/mariusz1802/blob/output/github-contribution-grid-snake.svg)
+
 	
-[![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)]	
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)	
 
 
 
 <!-- ************************ REST TO CHECK ******************************-->
+	
+	
+	
+	
 	
 <h1 align="left">👋I'm Mariusz</h1>
 <h3 align="left">I was born to be a good programmer</h3>
@@ -99,7 +104,7 @@ That's why I love doing it.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 	
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 - 👋 Hi, I’m @mariusz1802
 - 👀 I’m interested in ...
