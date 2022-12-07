@@ -3,22 +3,20 @@
 
 ![Blue Geometric Technology MJ](https://user-images.githubusercontent.com/41803168/205963073-106ad797-d19c-4ee1-92d8-603ccbf4093f.png)
 
-<h1 align="left">👋I'm Mariusz</h1>
-<h3 align="left">I wast born to be a good programmer</h3>
 
-Choć nie od razu było to dla mnie takie oczywiste,droga, którą przeszedłem,
-aby sobie to uświadomić wzmocniła mój charakter i wytrwałość w dążeniu do celów.
-Odkąd pamiętam lubiłem zajmować się grafiką i komputerami. 
-Skłoniło mnie to do studiowania IT o specjalności grafika komputerowa.
-Naprawdę cieszyło mnie tworzenie grafiki komputerowej. Po studiach pracowałem 
-jako grafik komputerowy i tam rozwijałem dalej swoje umiejętnośći.
-Po pewnym czasie czułem, że w grafice potrafie stworzyć wszystko co tylko będe chciał.
-To był moment w której nie widziałem dalszej możliwośći rozwoju.
-Czułem, że robie to już tylko dla pieniędzy. Postanowiłem zrezygnować i poszukać przestrzeni
-i potencjału w różnych dziedzinach życia.
-Tak udało mi się odnaleźć nową pasję jakie daje programowanie front-endu.
-Jest to dla mnie przestrzeń, która nie ma końca w odkrywaniu i zdobywaniu umiejętnośći.
-Dlatego właśnie uwielbiam to robić.
+**My name is Mariusz and I was born to become good programmers.**
+Although it wasn't immediately obvious to me, the path I walked
+to realize this strengthened my character and perseverance in pursuit of goals.
+For as long as I can remember, I liked to deal with graphics and computers.
+This prompted me to study IT, specializing in computer graphics.
+After graduation, I worked as a computer graphic designer and developed my skills there.
+After some time I felt that in graphics I can create anything I want.
+It was a moment when I saw no further development opportunities.
+I felt like I was only doing it for the money. I decided to give up and look for space
+and potential in various areas of life.
+That's how I managed to find a new passion of front-end programming.
+For me, it is a space that has no end in discovering and acquiring skills.
+That's why I love doing it.
 
 
 <!--******************////// TECHNICAL SKILLS SECTION //////*************************-->
@@ -69,6 +67,13 @@ Dlatego właśnie uwielbiam to robić.
 
 
 <!-- ************************ REST TO CHECK ******************************-->
+	
+<h1 align="left">👋I'm Mariusz</h1>
+<h3 align="left">I was born to be a good programmer</h3>
+
+### Hi I'm Mariusz	
+	
+	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
