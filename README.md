@@ -71,7 +71,7 @@ That's why I love doing it.
 ![Snake animation](https://github.com/mariusz1802/mariusz1802/blob/output/github-contribution-grid-snake.svg)
 	
 <!--******************////// CONTACT ME SKILLS SECTION //////*************************-->
-<h1> <img src="https://user-images.githubusercontent.com/41803168/206810300-550f37da-7804-4123-822e-a753163815d2.png" width="65px" /> Contact Me </h1>		
+<h1> <img src="https://user-images.githubusercontent.com/41803168/206810300-550f37da-7804-4123-822e-a753163815d2.png" width="75px" /> Contact Me </h1>		
 	
 
 
