@@ -74,14 +74,7 @@ That's why I love doing it.
 <h1> <img src="https://user-images.githubusercontent.com/41803168/206810300-550f37da-7804-4123-822e-a753163815d2.png" width="75px" /> Contact Me </h1>		
 	
 
-
-
-
-
-<!-- ************************ REST TO CHECK ******************************-->
-	
-	
-	
+<!-- ************************ REST TO CHECK ******************************-->			
 	
 	
 <h1 align="left">👋I'm Mariusz</h1>
