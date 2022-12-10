@@ -16,11 +16,12 @@ That's how I managed to find a new passion of front-end programming.
 For me, it is a space that has no end in discovering and acquiring skills.
 That's why I love doing it.
 
+
 <!--******************////// SOCIAL ICONS //////*************************-->
 <div align="center">
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/41803168/206858512-4bc95996-e41d-435d-b74e-a6eefd9875eb.png" alt="facebook" width="55px"/> </a>  &nbsp;
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/41803168/206858514-305a5a9a-9d6a-4e83-b905-79774eab8d1e.png" alt="instagram" width="55px" /> </a>  &nbsp;
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/41803168/206858518-fed88a56-5bba-476f-82c1-e65eb94d8c0c.png" alt="twitter" width="55px"/> </a>  &nbsp;
+<a href="https://www.facebook.com/profile.php?id=100014855081623" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/41803168/206858512-4bc95996-e41d-435d-b74e-a6eefd9875eb.png" alt="facebook" width="55px"/> </a>  &nbsp;
+<a href="https://www.instagram.com/sprzedamszkode.pl/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/41803168/206858514-305a5a9a-9d6a-4e83-b905-79774eab8d1e.png" alt="instagram" width="55px" /> </a>  &nbsp;
+<a href="https://twitter.com/Mariusz56059436" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/41803168/206858518-fed88a56-5bba-476f-82c1-e65eb94d8c0c.png" alt="twitter" width="55px"/> </a>  &nbsp;
 
 </div>
 
@@ -69,7 +70,7 @@ That's why I love doing it.
 <h1> <img src="https://user-images.githubusercontent.com/41803168/206859782-3c87dec0-5e52-48bb-afff-a863da78391e.png" width="55px" /> Curently learning </h1>
 	
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
-</a> <a  href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a>
+</a> <a  href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70px" height="70px" style="padding-top: 30px"/> </a>
 	
 
 <!--******************////// STATS SECTION //////*************************-->	
@@ -82,83 +83,4 @@ That's why I love doing it.
 ![Snake animation](https://github.com/mariusz1802/mariusz1802/blob/output/github-contribution-grid-snake.svg)
 	
 	
-<!--******************////// CONTACT ME SKILLS SECTION //////*************************-->
-<h1> <img src="https://user-images.githubusercontent.com/41803168/206810300-550f37da-7804-4123-822e-a753163815d2.png" width="75px" /> Contact Me </h1>		
-	
 
-<!-- ************************ REST TO CHECK ******************************-->			
-	
-	
-<h1 align="left">👋I'm Mariusz</h1>
-<h3 align="left">I was born to be a good programmer</h3>
-
-### Hi I'm Mariusz	
-	
-	
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   </p>
-
-	
-	
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
-
-
-
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-	
-
-
-- 👋 Hi, I’m @mariusz1802
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-mariusz1802/mariusz1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
